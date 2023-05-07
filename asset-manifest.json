@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bfb09898.css",
-    "main.js": "/static/js/main.3e30f18b.js",
+    "main.js": "/static/js/main.dab05e84.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/masai-digital.png": "/static/media/masai-digital.436a991698175799fbd0.png",
     "static/media/fitness.png": "/static/media/fitness.fe0f61cd66d06da5eb4d.png",
@@ -9,11 +9,11 @@
     "static/media/googledigital.png": "/static/media/googledigital.d67252da8c4cfc11bbc6.png",
     "index.html": "/index.html",
     "main.bfb09898.css.map": "/static/css/main.bfb09898.css.map",
-    "main.3e30f18b.js.map": "/static/js/main.3e30f18b.js.map",
+    "main.dab05e84.js.map": "/static/js/main.dab05e84.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfb09898.css",
-    "static/js/main.3e30f18b.js"
+    "static/js/main.dab05e84.js"
   ]
 }
